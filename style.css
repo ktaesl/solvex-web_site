@@ -1,0 +1,28 @@
+html {
+    scroll-padding: 1000px ;
+}
+.header {
+    position: relative;
+    width: 70%;
+    background: white;
+    z-index: 999;
+    top: 0;
+    padding-block: 30px;
+}
+
+.header_nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 10px ;
+}
+
+.header_list {
+    display: flex;
+    gap: 49px;
+}
+
+ul {
+    list-style: none;
+
+}
